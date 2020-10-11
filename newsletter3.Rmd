@@ -1,0 +1,117 @@
+---
+title: "Newsletter be outliers"
+author: be outliers
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['dd_cv.css', 'resume']
+    self_contained: true
+
+---
+
+Aside
+================================================================================
+
+
+![Lijia Yu](img/linkedin_standard_logo_on_corporate_by_logaster.png){width=100%}
+
+
+Informações de Contato {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> beoutliersbr@gmail.com
+- <i class="fa fa-globe"></i> [beoutliers.online](https://beoutliers.online)
+- <i class="fa fa-instagram"></i> [_beoutliers](https://instagram.com/_beoutliers)
+- <i class="fa fa-twitter"></i> [_beoutliers](https://twitter.com/_beoutliers)
+
+
+
+Main
+================================================================================
+
+Newsletter be outliers {#title}
+--------------------------------------------------------------------------------
+
+### 12 a 18/10/2020
+
+
+Site {data-icon=laptop data-concise=true}
+--------------------------------------------------------------------------------
+
+### Resenha do Livro R para Data Science
+
+Disponível a partir das 9h. Trazemos em primeira mão para você o [site](https://r4ds.had.co.nz/) onde você pode ler o livro.
+
+[beoutliers.online](https://beoutliers.online)
+
+12/10/2020 às 9h
+
+
+Eventos {data-icon=chalkboard-teacher data-concise=true}
+--------------------------------------------------------------------------------
+
+### Meetup do RLadies Dallas
+
+Temas: limpando e explorando a base de dados Loan Prosper; criação de pastas de trabalho do Excel programaticamente em R
+
+[Meetup Dallas](https://www.meetup.com/pt-BR/rladies-dallas/events/273735010/)
+
+12/10/2020 às 19:30h
+
+Evento em inglês
+
+### Meetup do RLadies Aguascalientes
+
+Tema: Análise de enquetes no R - a opinião de mexicanas e mexicanos sobre corrupção e impunidade
+
+[Meetup Aguascalientes](https://www.meetup.com/es/rladies-aguascalientes/events/273716486/)
+
+13/10/2020 às 20:00h
+
+Evento em espanhol
+
+### Meetup RLadies Oxford Ohio
+
+Tema: Uma jornada pelo R
+
+[Meetup Oxford Ohio](https://www.meetup.com/pt-BR/rladies-oxford-ohio/events/273571280/)
+
+13/10/2020 às 20:00h
+
+Evento em inglês
+
+### Aprofundando o Conhecimento Estatístico - Semana 7
+
+Métodos baseados em árvores parte 1
+
+[Youtube](https://www.youtube.com/watch?v=9gQ_0nreSOw)
+
+14/10/2020 às 19:00h
+
+### Meetup RLadies Cape Town
+
+Tema: Web Scraping com Andrew Collier - Sessão 2
+
+[Meetup Cape Town](https://www.meetup.com/pt-BR/rladies-cape-town/events/273586479/)
+
+14/10/2020 às 12:30h  
+
+Evento em inglês
+
+### Meetup RLadies Miami
+
+Tema: Modelos preditivos para a área da saúde
+
+[Meetup Miami](https://www.meetup.com/pt-BR/rladies-miami/events/273733504/)
+
+15/10/2020 às 19:00h
+
+Evento em inglês
+
+### Aprofundando o Conhecimento Estatístico - Semana 7
+
+Métodos baseados em árvores parte 2
+
+[Youtube](https://www.youtube.com/watch?v=DJ0SGjglfL8)
+
+17/10/2020 às 10:00h
